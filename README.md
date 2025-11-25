@@ -1,1 +1,2 @@
 # dev_project
+this project is a simple Electronic Voting Machine (EVM) made using C programming. It allows users to vote for multiple candidates by entering a voter ID. The system prevents duplicate voting, counts votes for each candidate, and displays the results. It uses arrays, loops, and conditional statements to manage voter IDs and votes. The project demonstrates how a basic digital voting system works in real life.
